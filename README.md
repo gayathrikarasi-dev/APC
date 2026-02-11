@@ -20,7 +20,7 @@
 
 # How to Run
 - Clone the repository:
-  - `git clone https://github.com/your-username/apc-in-c.git`
+  - `git clone https://github.com/gayathrikarasi-dev/APC.git`
   - `cd apc-in-c`
 - Compile the program:
   - `gcc *.c -o apc`
