@@ -29,9 +29,9 @@
 
 # Usage Examples
 - Addition:
-  - `./apc 123456789123456789 + 987654321987654321`
+  - `./apc 67891234789 + 98765432198`
 - Subtraction:
-  - `./apc 987654321987654321 - 123456789123456789`
+  - `./apc 9876543256 - 1234567896`
 - Multiplication:
   - `./apc 123456789 * 987654321`
 - Division:
@@ -54,3 +54,24 @@
 - Algorithm design for large-number arithmetic
 - Modular project structure
 - Debugging complex C programs
+
+# Project Structure
+
+apc-in-c/
+├─ images/
+│  ├─ Addition.png
+│  ├─ Subtraction.png
+│  ├─ Multiplication.png
+│  ├─ Division.png
+│  └─ Errors.png
+├─ include/
+│  └─ apc.h
+├─ src/
+│  ├─ add.c
+│  ├─ apc.c
+│  ├─ div.c
+│  ├─ main.c
+│  ├─ mul.c
+│  └─ sub.c
+├─ README.md
+└─ .gitignore
