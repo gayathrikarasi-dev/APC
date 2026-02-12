@@ -20,7 +20,7 @@
 
 # How to Run
 - Clone the repository:
-  - `git clone https://github.com/your-username/apc-in-c.git`
+  - `git clone https://github.com/gayathrikarasi-dev/APC.git`
   - `cd apc-in-c`
 - Compile the program:
   - `gcc *.c -o apc`
@@ -29,9 +29,9 @@
 
 # Usage Examples
 - Addition:
-  - `./apc 123456789123456789 + 987654321987654321`
+  - `./apc 1234567456789 + 9876543654321`
 - Subtraction:
-  - `./apc 987654321987654321 - 123456789123456789`
+  - `./apc 9321987654321 - 1289123456789`
 - Multiplication:
   - `./apc 123456789 * 987654321`
 - Division:
